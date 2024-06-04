@@ -1,4 +1,7 @@
 # Reducing Hotel Booking Cancellations
+
+![image](https://github.com/GoutamKuiri99/Reducing-Hotel-Booking-Cancellations-Project-in-Python/assets/154737280/de83f470-fd55-4e88-a4ce-858bd1d89743)
+
 ## Project Overview
 
 This project aims to analyze hotel booking data to identify the key factors that contribute to cancellations and develop strategies to reduce the cancellation rates. By leveraging data analysis techniques using pandas, we can provide actionable insights to improve booking stability.
