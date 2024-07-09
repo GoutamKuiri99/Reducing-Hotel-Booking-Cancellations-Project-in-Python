@@ -153,4 +153,6 @@ cancellation rates.
 
 4.Enhancing the quality of hotels and services, particularly in Portugal,
 could help decrease the cancellation rate.
-
+  
+**Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me**   
+https://www.linkedin.com/in/goutam-kuiri-949b632a6
